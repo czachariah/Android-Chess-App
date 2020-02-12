@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Chris\'ChessApp</string>
+    <string name="load_previous_game">Load Previous Game</string>
+    <string name="welcome">Welcome!</string>
+    <string name="play_new_game">Play New Game</string>
+    <string name="togglebutton" />
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
+    <string name="previous_move">Previous Move</string>
+    <string name="prev_move">Prev Move</string>
+    <string name="ai">AI</string>
+    <string name="draw">DRAW</string>
+    <string name="resign">RESIGN</string>
+</resources>
